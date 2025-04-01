@@ -35,9 +35,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fikriaf](https://github.com/fikriaf)
 
-- 📝 I regularly write articles on [https://osc.medcom.id/community/author/barayaroas@gmail.com](https://osc.medcom.id/community/author/barayaroas@gmail.com)
+- 📝 I regularly write articles on [OSC Medcom](https://osc.medcom.id/community/author/barayaroas@gmail.com), [Kumparan](https://kumparan.com/fikri-af), [Kompasiana](https://www.kompasiana.com/fikri44264), [GNFI](https://www.goodnewsfromindonesia.id/u/fikriaf27)
 
-- 💬 Ask me about **Keras, Tensorflow, PyTorch, NLTK, NEAT, OpenCV, Pygame, Laravel, React, Bootstrap, Node.js, Express.js, Arduino, MySQL, MongoDB**
+- 💬 Ask me about **Keras, Tensorflow, PyTorch, NLTK, NEAT, OpenCV, Pygame, Laravel, React, Bootstrap 5, Node.js, Express.js, Arduino, MySQL, MongoDB**
 
 - 📫 How to reach me **fikriarmia27@gmail.com**
 
