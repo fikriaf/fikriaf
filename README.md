@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently studying on [Universitas Pembangunan Jaya](https://upj.ac.id/)
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Javascript, Typescript, PHP, C, C++, AHK, SQL**
+- 🌱 I’m currently learning **Python, HTML, CSS, Javascript, PHP, Java, Typescript, C, C++, AHK, SQL**
 
 - 🤝 I’m looking for help with [stackoverflow](https://stackoverflow.com/), [w3schools](https://www.w3schools.com/)
 
@@ -37,7 +37,7 @@
 
 - 📝 I regularly write articles on [https://osc.medcom.id/community/author/barayaroas@gmail.com](https://osc.medcom.id/community/author/barayaroas@gmail.com)
 
-- 💬 Ask me about **Keras, Tensorflow, PyTorch, NLTK, OpenCV, Pygame, Bootstrap, Node.js, Express.js, Arduino, MySQL, MongoDB**
+- 💬 Ask me about **Keras, Tensorflow, PyTorch, NLTK, NEAT, OpenCV, Pygame, Laravel, React, Bootstrap, Node.js, Express.js, Arduino, MySQL, MongoDB**
 
 - 📫 How to reach me **fikriarmia27@gmail.com**
 
