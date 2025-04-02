@@ -65,7 +65,7 @@
 [![Fikri's github stats](https://bad-apple-github-readme.vercel.app/api?username=fikriaf&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=fikriaf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 [![Fikri's current streak](https://streak-stats.demolab.com/?user=fikriaf&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-<img align=right width=300 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR5NDRnYWRnNmllcXBpcXRoYXR4emM5Z3ZwNHo5MXQ5ZzhndW82dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/e2KLC2swVkj7i/giphy.gif"></img>
+<img width=300 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR5NDRnYWRnNmllcXBpcXRoYXR4emM5Z3ZwNHo5MXQ5ZzhndW82dyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/e2KLC2swVkj7i/giphy.gif"></img>
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=fikriaf&limit=3&theme=blue-green&combine_all_yearly_contributions=true)
 
 ## ⚡Activity Graph
