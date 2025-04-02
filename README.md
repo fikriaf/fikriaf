@@ -43,6 +43,9 @@
 
 - ⚡ Fun fact **I think I overthinking**
 
+- 📝 [My Resume](https://github.com/fikriaf/sources/CV_Fikri Armia Fahmi.pdf)
+
+<br> 
 <br> 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Connect with me:
@@ -55,10 +58,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,php,html,js,css,c,java,laravel,typescript,nodejs,bootstrap,mysql,mongodb,express,figma,opencv,pytorch,tensorflow,arduino)](#)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 [![Fikri's github stats](https://bad-apple-github-readme.vercel.app/api?username=fikriaf&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=fikriaf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 [![Fikri's current streak](https://streak-stats.demolab.com/?user=fikriaf&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=fikriaf&limit=3&theme=blue-green&combine_all_yearly_contributions=true)
 
 ## ⚡Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fikriaf&theme=react-dark"/>
@@ -66,3 +74,15 @@
 ### ✍️ Quote for Today
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+<p align="center" style="margin-top: 30px;">
+    <img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1578512858/7452/danceydoge.gif" width="25" height="25"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1460579133/354/doom_look.gif" width="25" height="25"/>
+    <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif" width="25" height="25"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="25" height="25"/> 
+</p>
