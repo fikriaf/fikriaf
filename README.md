@@ -43,7 +43,7 @@
 
 - ⚡ Fun fact **I think I overthinking**
 
-- 📝 [My Resume](https://github.com/fikriaf/sources/CV_Fikri Armia Fahmi.pdf)
+- 📝 [My Resume](https://github.com/fikriaf/sources/CV_Fikri.pdf)
 
 <br> 
 <br> 
