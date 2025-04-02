@@ -64,4 +64,5 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fikriaf&theme=react-dark"/>
 
 ### ✍️ Quote for Today
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
