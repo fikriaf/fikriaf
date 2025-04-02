@@ -62,3 +62,6 @@
 
 ## ⚡Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fikriaf&theme=react-dark"/>
+
+### ✍️ Quote for Today
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
