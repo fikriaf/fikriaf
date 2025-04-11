@@ -93,12 +93,12 @@
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br><strong>Laravel</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" />
       <br><strong>React</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Maven" />
       <br><strong>Maven</strong>
@@ -131,6 +131,8 @@
       <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
       <br><strong>PyTorch</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Sklearn" />
       <br><strong>Sklearn</strong>
@@ -139,8 +141,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="45" height="45" alt="Keras" />
       <br><strong>Keras</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Transformers" />
       <br><strong>Transformers</strong>
@@ -169,6 +169,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1200px-PhpMyAdmin_logo.svg.png" width="40" height="40" alt="phpMyAdmin" />
       <br><strong>phpMyAdmin</strong>
     </td>
+</tr>
+<tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
       <br><strong>Figma</strong>
