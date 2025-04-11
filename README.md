@@ -54,8 +54,136 @@
 <a href="https://discord.gg/fighterfire0346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fighterfire0346" height="30" width="40" /></a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,php,html,js,css,c,java,laravel,typescript,nodejs,bootstrap,mysql,mongodb,express,figma,opencv,pytorch,tensorflow,arduino)](#)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My Skills:
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
+      <br><strong>PHP</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <br><strong>HTML</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+      <br><strong>CSS</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" />
+      <br><strong>JS</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+      <br><strong>C</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br><strong>Laravel</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" />
+      <br><strong>React</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Maven" />
+      <br><strong>Maven</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
+      <br><strong>Express.js</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br><strong>Bootstrap</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" width="45" height="45" alt="Filament" />
+      <br><strong>Filament</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/DxD1hLgUwAAo-Od.jpg?fit=375%2C422&ssl=1" width="45" height="45" alt="Tkinter" />
+      <br><strong>Tkinter</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" width="45" height="45" alt="Pygame" />
+      <br><strong>Pygame</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
+      <br><strong>TensorFlow</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
+      <br><strong>PyTorch</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Sklearn" />
+      <br><strong>Sklearn</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="45" height="45" alt="Keras" />
+      <br><strong>Keras</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45" alt="Transformers" />
+      <br><strong>Transformers</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn-icons-png.freepik.com/256/423/423066.png?semt=ais_hybrid" width="45" height="45" alt="NEAT" />
+      <br><strong>NEAT</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" width="45" height="45" alt="NLTK" />
+      <br><strong>NLTK</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="OpenCV" />
+      <br><strong>OpenCV</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br><strong>MongoDB</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1200px-PhpMyAdmin_logo.svg.png" width="40" height="40" alt="phpMyAdmin" />
+      <br><strong>phpMyAdmin</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+      <br><strong>Figma</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRoE5DcalLnKRtZfuKddbpQxE2rGNLe6jXw&s" width="45" height="45" alt="Canva" />
+      <br><strong>Canva</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=arduino" width="45" height="45" alt="Arduino" />
+      <br><strong>Arduino</strong>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
