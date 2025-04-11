@@ -59,6 +59,7 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My Skills:
+
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -170,7 +171,7 @@
       <br><strong>MongoDB</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1200px-PhpMyAdmin_logo.svg.png" width="40" height="40" alt="phpMyAdmin" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1200px-PhpMyAdmin_logo.svg.png" width="45" height="45" alt="phpMyAdmin" />
       <br><strong>phpMyAdmin</strong>
     </td>
 </tr>
