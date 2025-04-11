@@ -181,12 +181,12 @@
       <br><strong>VS Code</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" width="45" height="45" alt="Laragon" />
-      <br><strong>Laragon</strong>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="45" height="45" alt="NetBeans" />
+      <br><strong>NetBeans</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://herd.laravel.com/images/appicon.png" width="45" height="45" alt="Herd" />
-      <br><strong>Herd</strong>
+      <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" width="45" height="45" alt="Laragon" />
+      <br><strong>Laragon</strong>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
