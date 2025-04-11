@@ -37,7 +37,7 @@
 
 - 📝 I regularly write articles on [OSC Medcom](https://osc.medcom.id/community/author/barayaroas@gmail.com), [Kumparan](https://kumparan.com/fikri-af), [Kompasiana](https://www.kompasiana.com/fikri44264), [GNFI](https://www.goodnewsfromindonesia.id/u/fikriaf27)
 
-- 💬 Ask me about **Keras, Tensorflow, PyTorch, NLTK, NEAT, OpenCV, Pygame, Laravel, React, Bootstrap 5, Node.js, Express.js, Arduino, MySQL, MongoDB, etc**
+- 💬 Ask me about **Keras, Tensorflow, PyTorch, NLTK, NEAT, OpenCV, Pygame, Laravel, React, Bootstrap 5, Node.js, Express.js, Arduino, MySQL, MongoDB, etc.**
 
 - 📫 How to reach me **fikriarmia27@gmail.com**
 
