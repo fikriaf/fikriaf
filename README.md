@@ -172,6 +172,30 @@
 </tr>
 <tr>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VSCode" />
+      <br><strong>VS Code</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.worldvectorlogo.com/logos/laragon.svg" width="45" height="45" alt="Laragon" />
+      <br><strong>Laragon</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://herd.laravel.com/images/appicon.png" width="45" height="45" alt="Herd" />
+      <br><strong>Herd</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://static-00.iconduck.com/assets.00/dbeaver-icon-2048x2026-kcj6pqth.png" width="45" height="45" alt="DBeaver" />
+      <br><strong>DBeaver</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" width="45" height="45" alt="Colab" />
+      <br><strong>Colab</strong>
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
       <br><strong>Figma</strong>
     </td>
