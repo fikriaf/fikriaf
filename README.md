@@ -176,7 +176,7 @@
       <br><strong>Figma</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRoE5DcalLnKRtZfuKddbpQxE2rGNLe6jXw&s" width="45" height="45" alt="Canva" />
+      <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwbTd_YqcrKt3ED_2JioHRslZyvQSJ7Ptwb0.k9awp_ldXhvqCsS38auQNzE.3mKc9U-&format=source" width="45" height="45" alt="Canva" />
       <br><strong>Canva</strong>
     </td>
     <td align="center" width="90">
