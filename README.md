@@ -49,9 +49,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/fikri-armia-fahmi-b373b3288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fikri-armia-fahmi-b373b3288" height="30" width="40" /></a>
-<a href="https://instagram.com/fikriaf27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fikriaf27" height="30" width="40" /></a>
-<a href="https://discord.gg/fighterfire0346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fighterfire0346" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fikri-armia-fahmi-b373b3288" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="fikri-armia-fahmi-b373b3288" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/fikriaf27" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="fikriaf27" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://discord.gg/fighterfire0346" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="fighterfire0346" height="40" width="40" /></a>
 </p>
 
 <div align="center">
