@@ -58,7 +58,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My Skills:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My Skills and Tools:
 
 <table align="center">
   <tr>
@@ -71,6 +71,14 @@
       <br><strong>PHP</strong>
     </td>
     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" />
+      <br><strong>JS</strong>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" />
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
       <br><strong>HTML</strong>
     </td>
@@ -79,20 +87,12 @@
       <br><strong>CSS</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" />
-      <br><strong>JS</strong>
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
       <br><strong>C</strong>
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" />
       <br><strong>Java</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" />
-      <br><strong>TypeScript</strong>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
