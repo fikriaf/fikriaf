@@ -193,7 +193,7 @@
       <br><strong>MySQL</strong>
     </td>
     <td align="center" width="90">
-      <img src="https://static-00.iconduck.com/assets.00/dbeaver-icon-2048x2026-kcj6pqth.png" width="45" height="45" alt="DBeaver" />
+      <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="45" height="45" alt="DBeaver" />
       <br><strong>DBeaver</strong>
     </td>
     <td align="center" width="90">
